@@ -2,3 +2,16 @@ img {
     width: 800px;
     height: 600px;
 }
+body {
+    background-color: #fff5c9;
+}
+h1 {
+    color: #0e29a1;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.welcome, .image, .page-links, .description {
+    text-align: center;
+}
