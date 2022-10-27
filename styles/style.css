@@ -4,14 +4,13 @@ img {
 }
 body {
     background-color: #fff5c9;
+    width: 800px;
+    margin: 0 auto;
 }
 h1 {
     color: #0e29a1;
     text-align: center;
 }
 h2 {
-    text-align: center;
-}
-.welcome, .image, .page-links, .description {
     text-align: center;
 }
